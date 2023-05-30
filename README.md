@@ -8,7 +8,6 @@
 - [Usage](#usage)
 - [Installation](#installation)
 - [License](#license)
-- [Contact](#contact)
 
 
 # About
