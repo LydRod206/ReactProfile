@@ -61,6 +61,10 @@ To start my React Portfolio on your local machine, use the following command: np
 
 ### Liscence
 
+### View my ReactProfile:
+
+https://lydrod206.github.io/ReactProfile/
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Screenshot 2023-05-29 at 4 47 32 PM](https://github.com/LydRod206/ReactProfile/assets/119384486/02955e43-5ce7-4ee4-b54f-04808bda7ba9)
